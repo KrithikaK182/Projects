@@ -83,4 +83,14 @@ Web Screenshots:
 <img width="1919" height="894" alt="Image" src="https://github.com/user-attachments/assets/84b4d0ba-fcd4-4901-aaaf-c7e57076f8b4" />
 
 
+📬 Contact:
+
+LinkedIn: https://www.linkedin.com/in/krithika-k-12643a319/
+
+Email: krithika.work18@gmail.com
+
+GitHub: https://github.com/KrithikaK182
+
+
+
 
