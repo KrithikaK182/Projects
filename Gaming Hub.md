@@ -6,6 +6,7 @@ The project is a ground-up build with HTML, CSS, and JavaScript, emphasizing UI/
 Features:
 
 6 Classic Games included:
+
 ⭕ Tic-Tac-Toe
 
 ✂️ Rock Paper Scissors
@@ -25,6 +26,7 @@ Features:
 - Contact form with notification system
 
 ⚙️ Tech Stack:
+
  Frontend: HTML5, CSS3, Vanilla JavaScript | Styling: Custom CSS (Glassmorphism + Gradients) | Optional Tools: Visual Studio Code, Git, Chrome DevTools
 
 Usage:
@@ -58,7 +60,6 @@ Email: krithika.work18@gmail.com
 GitHub: https://github.com/KrithikaK182
 
 Web Screenshots:
-
 [Homepage] 
 <img width="1919" height="837" alt="Image" src="https://github.com/user-attachments/assets/fbd72925-088a-49ce-a047-8ba62ecd0a8d" />
 
