@@ -41,4 +41,34 @@ Web Screenshots:
 Run the Project:
 git clone https://github.com/KrithikaK182/Gaming Hub
 
+Usage:
+* Navigate between modules using the navbar
+* Select any of the six games and start playing
+* Submit your name to the leaderboard after a high score
+* Use the Instructions section to understand each game
+* Use the Contact module to send messages (UI Simulation)
+
+Project Architecture:
+* Modular UI System: Each section is a module (home, games, leaderboard, etc.)
+* Game Engine Logic:
+-JavaScript functions for each game
+-State-based game rendering
+* Leaderboard System:
+-Local sorting
+-Score persistence during session
+* Responsive Layout with media queries
+* Glassmorphism Components for cards and game areas
+
+What I Learned---->
+-DOM manipulation and event-driven JavaScript
+-Game development logic
+-Creating reusable UI components
+-Improving UX through animations and transitions
+-Writing modular and scalable code without frameworks
+
+📬 Contact:
+LinkedIn: https://www.linkedin.com/in/krithika-k-12643a319/
+Email: krithika.work18@gmail.com
+GitHub: 
+
 
